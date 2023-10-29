@@ -50,7 +50,7 @@ nav {
 .templates{
   display: flex;
   margin-left: 35px;
-  
+  overflow-x: scroll
 }
 .card-stats{
   align-items: center;
